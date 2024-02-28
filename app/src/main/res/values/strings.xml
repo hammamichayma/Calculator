@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="plus_symbol">+</string>
+    <string name="sub_symbol">-</string>
+    <string name="multiply_symbol">*</string>
+    <string name="div_symbol">/</string>
+    <string name="number_1">Enter the first number:</string>
+    <string name="number_2">Enter the second number:</string>
+    <color name="hint_color">#696969</color>
+
+</resources>
